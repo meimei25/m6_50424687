@@ -1,0 +1,6 @@
+pertemuan 1 kita belajar multi thread 
+pertemuan 2 kita belajar API dan JSON data list
+pertemuan 3 kita belajar codingan ada htmlnya terus css bisa ngedit bentukan web nya
+pertemuan 4 kita buat flask lalu runnya di web dan bisa membuat data
+pertemuan 5 kita buat web yang lebih rapih dari pertemuan 4 dan menggunakan sql bisa i update delete dan simpan
+pertemuan 6 pembuatan aplikasi tanpa web browser
